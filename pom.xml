@@ -25,7 +25,7 @@
   </configuration>
   </plugin>
   </plugins>
-  <finalName>WebProject</finalName>
+  <finalName>mavenproject</finalName>
   </build>
 
 </project>
